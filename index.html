@@ -24,8 +24,8 @@
         <script>
             var title = document.getElementByTagName('title')[0];
             var msg = ['H', 'e', 'l', 'l', 'o', ' ', 'W', 'o', 'r', 'l', 'd'];
-            var i = 0;
-            function update() {
+            update(0);
+            function update(i) {
                 title.innerHTML += msg[i];
                 if(i<msg.length - 1)
                     setTimeout(function (){ update(i+1); }, 1000);
