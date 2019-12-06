@@ -1,12 +1,17 @@
-<!Doctype html>
 <html>
     <head>
-        <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
-        <title></title>
+        <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet"> 
+        <title>Welcome</title>
+        <link rel="stylesheet" href="style.css" type="text/css">
+        
     </head>
-    <body style="font-family: Montserrat;">
-        <div class="container">
-            <br><br>
+    <body>
+        <body>
+            <div class="header">
+                <div id='title'>Manuver's Blog</div>
+            </div>
+            <div class="main-content">
+                <br><br>
             <iframe src="https://freesecure.timeanddate.com/clock/i6zhsdvy/n1648/szw110/szh110/hocfff/hbw0/cf100/hgr0/fas20/facfff/fdi86/mqc000/mqs2/mql3/mqw4/mqd70/mhc000/mhs2/mhl3/mhw4/mhd70/mmv0/hhs3/hms3/hsc00f" frameborder="0" width="110" height="110"></iframe>
             <br> <br>
             SPOJ : PT07Y - Is it a tree Solution <br><br><br>
@@ -24,23 +29,7 @@
             <script src="https://gist.github.com/ManuverGujjar/efde80e17453d845bc29f9506714d76c.js"></script>
             <br>
         </div>
-        <script>
-            var title = document.getElementsByTagName('title')[0];
-            var msg = ['H', 'e', 'l', 'l', 'o', ' ', 'W', 'o', 'r', 'l', 'd'];
-            update(0);
-            function update(i) {
-                title.innerHTML += msg[i];
-                if(i<msg.length - 1)
-                    setTimeout(function (){ update(i+1); }, 300);
-                else {
-                    
-                    setTimeout(function(){
-                        title.innerHTML = '';
-                        update(0);
-                    }, 4000);
-                }
-            }
-            
-        </script>
+            </div>
+        </body>
     </body>
 </html>
