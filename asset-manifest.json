@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/manuvergujjar.github.io/static/css/main.5f361e03.chunk.css",
+    "main.js": "/manuvergujjar.github.io/static/js/main.61f4bda5.chunk.js",
+    "main.js.map": "/manuvergujjar.github.io/static/js/main.61f4bda5.chunk.js.map",
+    "runtime-main.js": "/manuvergujjar.github.io/static/js/runtime-main.c0d7a902.js",
+    "runtime-main.js.map": "/manuvergujjar.github.io/static/js/runtime-main.c0d7a902.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/manuvergujjar.github.io/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.534a764b.chunk.js": "/manuvergujjar.github.io/static/js/2.534a764b.chunk.js",
+    "static/js/2.534a764b.chunk.js.map": "/manuvergujjar.github.io/static/js/2.534a764b.chunk.js.map",
+    "index.html": "/manuvergujjar.github.io/index.html",
+    "precache-manifest.2c50c700a786e96ac349fd7af5c3987f.js": "/manuvergujjar.github.io/precache-manifest.2c50c700a786e96ac349fd7af5c3987f.js",
+    "service-worker.js": "/manuvergujjar.github.io/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/manuvergujjar.github.io/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/manuvergujjar.github.io/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.534a764b.chunk.js.LICENSE.txt": "/manuvergujjar.github.io/static/js/2.534a764b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0d7a902.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.534a764b.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.61f4bda5.chunk.js"
+  ]
+}
